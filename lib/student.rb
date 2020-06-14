@@ -1,10 +1,10 @@
 class Student < User
 
-def @first_name=(name)
+def first_name=(name)
   @name = name
 end
 
-def @first_name
+def first_name
   @name
 end
 
