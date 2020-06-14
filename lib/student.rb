@@ -5,7 +5,7 @@ def first_name=(name)
 end
 
 def first_name
-  @name
+  @first_name
 end
 
 def last_name(name)
