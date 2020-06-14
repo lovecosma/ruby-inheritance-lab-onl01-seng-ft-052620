@@ -6,7 +6,7 @@ end
 
 def @first_name
   @name
-end 
+end
 
 
 
