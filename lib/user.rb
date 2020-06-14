@@ -6,4 +6,8 @@ def initialize()
 end
 
 
+def learn
+end 
+
+
 end
