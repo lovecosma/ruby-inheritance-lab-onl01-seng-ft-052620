@@ -8,6 +8,8 @@ def first_name
   @name
 end
 
+def last_name
+end 
 
 
 end
