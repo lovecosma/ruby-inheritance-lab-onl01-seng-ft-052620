@@ -5,9 +5,9 @@ def initialize()
   @knowledge = []
 end
 
-
-def learn
-end 
+def learn(knowledge_string)
+  
+end
 
 
 end
