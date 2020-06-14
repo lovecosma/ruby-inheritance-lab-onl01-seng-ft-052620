@@ -16,8 +16,8 @@ def last_name
   @last_name
 end
 
-def learn
-end 
+def learn(knowledge)
+end
 
 
 end
