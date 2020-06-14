@@ -6,6 +6,7 @@ def initialize()
 end
 
 def learn(knowledge_string)
+  @knowledge_string = knowledge_string
   
 end
 
