@@ -1,4 +1,4 @@
 class Student < User
-def @first=(name)
+def @first_name=(name)
 end
 end
