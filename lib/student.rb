@@ -9,7 +9,7 @@ def first_name
 end
 
 def last_name(name)
-
+@last_name = last_name
 end
 
 
